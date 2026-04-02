@@ -4,7 +4,7 @@ A simple and responsive Weather Card built with HTML, CSS and JavaScript that fe
 
 ## Live Demo
 
-Demo Link:**https://jahnavi-nitr.github.io/Weather_Card/**
+Demo Link: **https://jahnavi-nitr.github.io/Weather_Card/**
 
 ## Features
  
